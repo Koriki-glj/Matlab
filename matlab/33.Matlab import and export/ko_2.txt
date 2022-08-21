@@ -1,0 +1,4 @@
+xingming,xuehao,chengji_1,chengji_2
+xiaozhang,1001,85,44
+xiaowang,1002,95,88
+xiaoli,1003,90,55
